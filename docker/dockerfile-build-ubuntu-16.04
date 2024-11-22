@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20201014
+FROM ubuntu:xenial-20210114
 MAINTAINER Kent Knox <kent.knox@amd>
 
 # Parameters related to building hcc-lc
